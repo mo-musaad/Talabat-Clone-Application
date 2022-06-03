@@ -1,6 +1,6 @@
 # Talabat_Application
 
-## it's an online food ordering application using Java , Using Database to retrieve and save and search for data
+## it's an online food ordering application using Java and Database to Retrieve, Save and Search for Data
 
 
 
@@ -36,5 +36,5 @@
     ---> Make an order.
         o The order shows the total price (price of meal*quantity)
 
-    ❖ Ability to sort and search meals and restaurants  
-    ❖ The customer can put meals in a cart and order them
+    ❖ Ability to sort and search for meals and restaurants  
+    ❖ The customer can put meals in cart then place order
