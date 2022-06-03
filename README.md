@@ -7,21 +7,21 @@
 
 > Restaurant Owner functionalities:
 
----> Register/ Login to the system.
+    ---> Register/ Login to the system.
 
----> Add a meal to his restaurant. A meal consists of:
-* Meal Name
-* Meal price
-* Meal Description
-* Meal photo
+    ---> Add a meal to his restaurant. A meal consists of:
+    * Meal Name
+    * Meal price
+    * Meal Description
+    * Meal photo
 
----> Edit/ remove meal
+    ---> Edit/ remove meal
 
----> Browse restaurant’s orders. An order consists of:
-* The ordered meal.
-* The quantity required.
-* Additional notes.
-* Order Date
+    ---> Browse restaurant’s orders. An order consists of:
+    * The ordered meal.
+    * The quantity required.
+    * Additional notes.
+    * Order Date
 
 **********************************************************************************************
 
