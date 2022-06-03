@@ -18,10 +18,10 @@
   * Edit/ remove meal
 
   * Browse restaurant’s orders. An order consists of:
-    ❖ The ordered meal.
-    ❖ The quantity required.
-    ❖ Additional notes.
-    ❖ Order Date
+    >❖ The ordered meal.
+    >❖ The quantity required.
+    >❖ Additional notes.
+    >❖ Order Date
 
 **********************************************************************************************
 
