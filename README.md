@@ -9,7 +9,7 @@
 
    * Register/ Login to the system.
 
-   >* Add a meal to his restaurant. A meal consists of:
+   * Add a meal to his restaurant. A meal consists of:
         ❖ Meal Name
         ❖ Meal price
         ❖ Meal Description
@@ -17,11 +17,11 @@
 
   * Edit/ remove meal
 
-  >* Browse restaurant’s orders. An order consists of:
+  * Browse restaurant’s orders. An order consists of:
     ❖ The ordered meal.
     ❖ The quantity required.
     ❖ Additional notes.
-    ❖Order Date
+    ❖ Order Date
 
 **********************************************************************************************
 
