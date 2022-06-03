@@ -2,7 +2,7 @@
 
 ## it's an online food ordering application using Java and use Database to Retrieve, Save and Search for Data
 
-<p><img src="https://github.com/mo-musaad/Talabat-Clone-/blob/main/Talabat%20Project/test/Welcomeimg.PNG" alt="Talabat image"></p>
+<p><img src="https://github.com/mo-musaad/Talabat-Clone-/blob/main/Talabat%20Project/test/WlcomeImg.PNG" alt="Talabat image"></p>
 
 
 > Restaurant Owner functionalities :
