@@ -3,9 +3,9 @@
 ## it's an online food ordering application using Java and Database to Retrieve, Save and Search for Data
 
 
+<a href="https://github.com/mo-musaad/Talabat-Clone-/blob/main/Talabat%20Project/test/RUNIMG.PNG"></a>
 
-
-> Restaurant Owner functionalities:
+> Restaurant Owner functionalities :
 
    * Register/ Login to the system.
 
@@ -25,7 +25,7 @@
 
 **********************************************************************************************
 
-> Customer functionalities:
+> Customer functionalities :
 
    * Register/ Login to the system.
     
