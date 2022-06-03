@@ -1,11 +1,11 @@
 # Talabat_Application
 
---It is an online food ordering application using Java , Using Databa to retrieve the saved data
+## it's an online food ordering application using Java , Using Database to retrieve and save and search for data
 
 
-**********************************************************************************************
 
-Restaurant Owner functionalities:
+
+> Restaurant Owner functionalities:
 
     ---> Register/ Login to the system.
     
@@ -25,7 +25,7 @@ Restaurant Owner functionalities:
 
 **********************************************************************************************
 
-Customer functionalities:
+> Customer functionalities:
 
     ---> Register/ Login to the system.
     
