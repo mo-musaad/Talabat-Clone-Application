@@ -9,7 +9,7 @@
 
    * Register/ Login to the system.
 
-   >* Add a meal to his restaurant. A meal consists of:
+   * Add a meal to his restaurant. A meal consists of:
       >❖ Meal Name
       >❖ Meal price
       >❖ Meal Description
